@@ -1,1 +1,2 @@
 alert("Good")
+alert("Great")
